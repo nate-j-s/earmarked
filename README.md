@@ -1,6 +1,6 @@
 ## Earmarked
 
-Earmarked by [FuelDev](https://fueldev.io).
+Earmarked by [Portweb](https://portweb.dev).
 Earmarked is a sleek, minimalist theme designed to be the perfect foundation for creating blogs.
 
 ## Files to edit
